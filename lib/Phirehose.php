@@ -1,4 +1,7 @@
 <?php
+
+namespace richweber\twitter\streaming\lib;
+
 /**
  * A class that makes it easy to connect to and consume the Twitter stream via the Streaming API.
  *
