@@ -1,5 +1,8 @@
 <?php
-require_once('Phirehose.php');
+
+namespace richweber\twitter\streaming\lib;
+
+use richweber\twitter\streaming\lib\Phirehose.php;
 
 /**
 *
