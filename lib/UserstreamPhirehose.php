@@ -1,5 +1,8 @@
 <?php
-require_once('OauthPhirehose.php');
+
+namespace richweber\twitter\streaming\lib;
+
+use richweber\twitter\streaming\lib\OauthPhirehose;
 
 /**
 * This class just exists to have a different default method
