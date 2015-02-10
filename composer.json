@@ -1,9 +1,9 @@
 {
     "name": "richweber/yii2-phirehose",
-    "description": "Yii2 extension to the Twitter Streaming API.",
+    "description": "Yii2 extension to the Twitter Streaming API",
     "keywords": ["yii2", "phirehose", "php", "twitter", "streaming", "api"],
     "type": "yii2-extension",
-    "homepage": "https://github.com/fennb/phirehose",
+    "homepage": "https://github.com/RichWeber/yii2-phirehose",
     "license": "GPL",
     "authors": [
         {
@@ -18,6 +18,6 @@
         "yiisoft/yii2": "*"
     },
     "autoload": {
-        "psr-4": { "richweber\\twitter\\streaming\\lib\\": "" }
+        "psr-4": { "richweber\\twitter\\streaming\\": "" }
     }
 }
